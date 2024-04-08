@@ -1,5 +1,5 @@
 provider "github" {
-  token = "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"
+  token = "your github sccess tocken"
 }
 
 
